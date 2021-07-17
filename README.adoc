@@ -1,0 +1,3 @@
+= Hexlet CI exercise
+
+This repository contains a sample project with coverage report.
