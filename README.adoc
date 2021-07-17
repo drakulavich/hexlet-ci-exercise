@@ -1,3 +1,6 @@
+image::https://github.com/drakulavich/hexlet-ci-exercise/actions/workflows/main.yml/badge.svg[Workflow Status,link=https://github.com/drakulavich/hexlet-ci-exercise/actions]
+image::https://api.codeclimate.com/v1/badges/5240e908271565fca0aa/test_coverage[Test Coverage,link=https://codeclimate.com/github/drakulavich/hexlet-ci-exercise/test_coverage]
+
 = Hexlet CI exercise
 
 This repository contains a sample project with coverage report.
