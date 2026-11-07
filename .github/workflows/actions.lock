@@ -6,7 +6,7 @@ workflows:
     '.github/workflows/main.yml':
         - 'actions/checkout@v2.8.0'
         - 'actions/setup-node@v2.5.2'
-        - 'paambaati/codeclimate-action@v2.7.5'
+        - 'paambaati/codeclimate-action@v9.0.0'
 dependencies:
     'actions/checkout@v2.8.0':
         ref: 'v2.8.0'
@@ -18,8 +18,8 @@ dependencies:
         commit: 'sha1-7c12f8017d5436eb855f1ed4399f037a36fbd9e8'
         owner_id: 44036562
         repo_id: 189476904
-    'paambaati/codeclimate-action@v2.7.5':
-        ref: 'v2.7.5'
-        commit: 'sha1-7bcf9e73c0ee77d178e72c0ec69f1a99c1afc1f3'
+    'paambaati/codeclimate-action@v9.0.0':
+        ref: 'v9.0.0'
+        commit: 'sha1-f429536ee076d758a24705203199548125a28ca7'
         owner_id: 5381764
         repo_id: 201384088
